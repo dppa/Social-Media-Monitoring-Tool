@@ -1,3 +1,4 @@
+![Image of banner](https://raw.githubusercontent.com/dppa/Social-Media-Monitoring-Tool/master/Banner.jpg)
 # Sentiment analysis and social media monitoring in the Arab world
 
 ## Focus of project
