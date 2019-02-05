@@ -2,4 +2,4 @@
 
 Development of social media monitoring tools for conflict prevention and peace mediation
 
-![GitHub Logo](https://commons.wikimedia.org/wiki/File:UN_emblem_blue.svg)
+!(https://commons.wikimedia.org/wiki/File:UN_emblem_blue.svg)
