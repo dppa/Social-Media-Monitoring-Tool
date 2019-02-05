@@ -1,7 +1,9 @@
-# Social Media Monitoring Tool
+# Sentiment analysis and social media monitoring in the Arab world
 
 ## Focus of project
-Development of social media monitoring tools for conflict prevention and peace mediation
+The project focuses on the development of sentiment analysis and social media monitoring tool for conflict prevention and peace mediation.
+
+It brings together a group of peace and conflict resolution specialists, Natural Language Processing (NLP) experts, and programmers to solve computational problems in the Arabic dialect NLP context.
 
 ## Partnerships
 * UN Department of Political and Peacebuilding Affairs (DPPA)
