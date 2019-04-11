@@ -9,6 +9,7 @@ It brings together a group of peace and conflict resolution specialists, Natural
 ## Partnerships
 * UN Department of Political and Peacebuilding Affairs, Middle East Division (DPPA)
 * American University of Beirut (AUB)
+* Birzeit University
 * The University of Edinburgh
 * Massachusetts Institute of Technology (MIT)
 
